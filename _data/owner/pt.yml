@@ -50,12 +50,12 @@ meta_common_description: "Descrição Meta."
 contacts:
   - github: "bergolho"
   #- email: "berg@ice.ufjf.br"
-  - scholar: "citations?user=i-7Q5rIAAAAJ&hl=pt-BR"
   #- twitter: ""
   #- youtube: ""
-  - linkedin: "lucas-arantes-berg-997547a2"
   - facebook: "corre.berg.11"
   - instagram: "lucasberg37"
+  - linkedin: "lucas-arantes-berg-997547a2"
+  - scholar: "citations?user=i-7Q5rIAAAAJ&hl=pt-BR"
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
 

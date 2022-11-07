@@ -40,8 +40,9 @@ page_data:
 
         Monodomain model:
 
-        ![monodomain_eq_1](/assets/img/projects/img/monodomain_1.png){:data-align="center"}
-        ![monodomain_eq_2](/assets/img/projects/img/monodomain_2.png){:data-align="center"}
+        $$ \beta C_{m} \dfrac{\partial V_{m}}{\partial t} + \beta I_{ion}(V_{m},\eta) = \nabla . (\sigma \nabla V_{m}) + I_{stim}, $$
+
+        $$ \dfrac{\partial \eta}{\partial t} = f(V_{m},\eta). $$
 
         <div class="col s12 tag-div">
             <div class="center">
