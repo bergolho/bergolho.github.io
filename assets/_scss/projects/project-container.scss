@@ -40,7 +40,7 @@
   display: block;
   float: left;
   z-index: 1;
-  padding-left: 0;
+  padding-left: 50px;
 }
 
 .project-container .project-img img {
@@ -127,6 +127,10 @@
 
 .project-container .project-header > .meta-container .fa {
   display: inline;
+}
+
+div.center {
+  text-align: center;
 }
 
 @media screen and (max-width: 500px) {
