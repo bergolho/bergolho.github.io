@@ -6,6 +6,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 xmlns:xhtml="http://www.w3.org/1999/xhtml"
 xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>http://0.0.0.0:4000/posts/2022-14-11-using-classes-in-C++</loc>
+    <image:image>
+      <image:loc>http://0.0.0.0:4000/assets/img/posts/post_pic3.jpg</image:loc>
+      <image:title>Using classes in C++</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>http://0.0.0.0:4000/pt/2022-10-01-mr-green-jekyll-theme</loc>
     <image:image>
       <image:loc>http://0.0.0.0:4000/assets/img/posts/mock1.jpg</image:loc>

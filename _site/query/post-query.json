@@ -1,5 +1,17 @@
 [
     {
+    "title"     : "Using classes in C++"
+    ,"title_sub": "This is an example of how to use classes in C++. // sample_class.cpp #include &lt;iostream&gt; #include &lt;string&gt; using namespace std; class Foo { private: int..."
+    ,"category" : "programming"
+    ,"tags"     : "c++, classes"
+    ,"url"      : "/posts/2022-14-11-using-classes-in-C++"
+    ,"image"    : "/assets/img/posts/post_pic3.jpg"
+    ,"max_width": ""
+    ,"display"  : ""
+    ,"read_time": "1 min read"
+    ,"date"     : "Nov 14, 2022"
+    ,"year"     : "2022"
+    },{
     "title"     : "Mr. Green Jekyll Theme"
     ,"title_sub": "Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages."
     ,"category" : "jekyll"
